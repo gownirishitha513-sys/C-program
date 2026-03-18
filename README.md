@@ -1,6 +1,2 @@
-# C-program
-My daily c practice 
-main() {
-    printf("Hello, World!");
-    return 0;
-}
+# Day1-19/03/26
+prime number.c
