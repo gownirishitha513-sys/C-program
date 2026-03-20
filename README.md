@@ -7,3 +7,4 @@
 ### Control Statements (Easy)
 - positive_negative_zero.c
 - largest_of_two_numbers.c
+- largest_of_three_numbers.c
