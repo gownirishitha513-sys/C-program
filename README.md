@@ -1,8 +1,8 @@
-# 19-03-26
-prime number.c
-even or odd.c
 
-control statements
-easy level:
-#20-03-26
-postive_negative_zero.c
+## Day 1 (19-03-26)
+- prime_number.c
+- even_or_odd.c
+
+## Day 2 (20-03-26)
+### Control Statements (Easy)
+- positive_negative_zero.c
