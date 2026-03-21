@@ -8,3 +8,7 @@
 - positive_negative_zero.c
 - largest_of_two_numbers.c
 - largest_of_three_numbers.c
+
+##Day 3 (21-03-26)
+- leap_year.c
+
