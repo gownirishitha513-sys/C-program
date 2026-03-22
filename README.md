@@ -13,3 +13,6 @@
 - leap_year.c
 - alphabet_or_digit.c
 
+#Day 4 (22-03-26)
+- vowel_or_consonant.c
+
