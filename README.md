@@ -20,3 +20,4 @@
 
 ##Day 5(23-03-26)
 - print_month_using_month(switch case).c
+- vowel_or_consonant(switch case).c
