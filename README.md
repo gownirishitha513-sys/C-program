@@ -25,3 +25,4 @@
 ##Day 6(24-3-26)
 - simple_calculator(switch case).c
 - print_numbers_from_1_to_n.c
+- print_numbers_from_n_to_1.c
