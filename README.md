@@ -21,3 +21,5 @@
 ##Day 5(23-03-26)
 - print_month_using_month(switch case).c
 - vowel_or_consonant(switch case).c
+##Day 6(24-3-26)
+- simple_calculator(switch case).c
