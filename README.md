@@ -1,4 +1,4 @@
-
+ye
 ## Day 1 (19-03-26)
 - prime_number.c
 - even_or_odd.c
@@ -30,3 +30,4 @@
 #Day 7(25-06-26)
 - print_even_numbers.c
 - print_odd_numbers.c
+- sum_of_n_natural_numbers.c
