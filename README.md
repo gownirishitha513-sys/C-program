@@ -29,3 +29,4 @@
 
 #Day 7(25-06-26)
 - print_even_numbers.c
+- print_odd_numbers.c
