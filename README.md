@@ -27,7 +27,10 @@ ye
 - print_numbers_from_1_to_n.c
 - print_numbers_from_n_to_1.c
 
-#Day 7(25-06-26)
+#Day 7(25-03-26)
 - print_even_numbers.c
 - print_odd_numbers.c
 - sum_of_n_natural_numbers.c
+
+##Day 8(26-03-26)
+- factorial.c
