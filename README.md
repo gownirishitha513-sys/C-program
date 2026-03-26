@@ -34,3 +34,4 @@ ye
 
 ##Day 8(26-03-26)
 - factorial.c
+- multiplication table.c
