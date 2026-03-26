@@ -35,3 +35,4 @@ ye
 ##Day 8(26-03-26)
 - factorial.c
 - multiplication table.c
+- number_of_digits_in_a_number.c
