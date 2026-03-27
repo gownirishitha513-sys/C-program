@@ -36,3 +36,5 @@ ye
 - factorial.c
 - multiplication table.c
 - number_of_digits_in_a_number.c
+##Day 9(27-03-26)
+- Reverse_a_number.c
