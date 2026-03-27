@@ -39,3 +39,4 @@ ye
 
 ##Day 9(27-03-26)
 - Reverse_a_number.c
+- palindrome.c
