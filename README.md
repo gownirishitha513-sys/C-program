@@ -40,3 +40,6 @@ ye
 ##Day 9(27-03-26)
 - Reverse_a_number.c
 - palindrome.c
+
+##Day 10(28-03-26)
+- prime_numbers_between_the_range.c
