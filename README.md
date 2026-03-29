@@ -48,3 +48,4 @@ haaye
 ##Day 11(29-03-26)
 - armstrong number.c
 - strong_number.c
+- Fibonacci series.c
