@@ -44,3 +44,6 @@ ye
 ##Day 10(28-03-26)
 - prime_numbers_between_the_range.c
 - sum_of_digits.c
+
+##Day 11(29-03-26)
+- armstrong number.c
