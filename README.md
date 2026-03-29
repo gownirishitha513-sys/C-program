@@ -1,4 +1,4 @@
-ye
+haaye
 ## Day 1 (19-03-26)
 - prime_number.c
 - even_or_odd.c
@@ -47,3 +47,4 @@ ye
 
 ##Day 11(29-03-26)
 - armstrong number.c
+- strong_number.c
