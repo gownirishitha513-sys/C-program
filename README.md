@@ -53,3 +53,4 @@ haaye
 ##Day 12(30-03-26)
 - lcm_of_two_numbers.c
 - hcf_of_two_numbers.c
+- count_even_and_odd_digits_in_a_number.c
