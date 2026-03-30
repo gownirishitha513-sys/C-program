@@ -49,3 +49,6 @@ haaye
 - armstrong number.c
 - strong_number.c
 - Fibonacci series.c
+
+##Day 12(30-03-26)
+- lcm_of_two_numbers.c
