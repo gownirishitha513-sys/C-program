@@ -52,3 +52,4 @@ haaye
 
 ##Day 12(30-03-26)
 - lcm_of_two_numbers.c
+- hcf_of_two_numbers.c
