@@ -54,3 +54,7 @@ haaye
 - lcm_of_two_numbers.c
 - hcf_of_two_numbers.c
 - count_even_and_odd_digits_in_a_number.c
+
+##Day 13(31-03-26)
+- power_of_a_number.c
+- check_perfect_number.c
