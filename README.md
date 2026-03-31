@@ -58,3 +58,4 @@ haaye
 ##Day 13(31-03-26)
 - power_of_a_number.c
 - check_perfect_number.c
+- roots_of_quadratic_equation.c
