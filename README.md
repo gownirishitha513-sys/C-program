@@ -59,3 +59,7 @@ haaye
 - power_of_a_number.c
 - check_perfect_number.c
 - roots_of_quadratic_equation.c
+
+#Day 14(1-04-26)
+- conert_binary_to_decimal.c
+- convert_decimal_to_binary.c
