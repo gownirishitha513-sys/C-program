@@ -63,3 +63,6 @@ haaye
 #Day 14(1-04-26)
 - conert_binary_to_decimal.c
 - convert_decimal_to_binary.c
+
+#Day 15(02-04-26)
+- amstrong_number_in_range.c
