@@ -67,3 +67,6 @@ haaye
 #Day 15(02-04-26)
 - amstrong_number_in_range.c
 - perfect_number_in_range.c
+
+#Day 16(03-04-26)
+- check_automorphic_number.c
