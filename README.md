@@ -1,4 +1,4 @@
-oohaaye
+
 ## Day 1 (19-03-26)
 - prime_number.c
 - even_or_odd.c
@@ -71,3 +71,6 @@ oohaaye
 #Day 16(03-04-26)
 - check_automorphic_number.c
 - check_neon_number.c
+
+#Day 17(04-04-26)
+- check_spy_number.c
