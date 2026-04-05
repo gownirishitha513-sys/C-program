@@ -75,3 +75,8 @@
 #Day 17(04-04-26)
 - check_spy_number.c
 - generate_pascal_triangle.c
+
+ARRAYS
+
+#Day 18(05-04-26)
+- read_and_print_array_elements.c
