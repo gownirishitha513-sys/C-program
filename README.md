@@ -81,3 +81,8 @@ ARRAYS
 #Day 18(05-04-26)
 - read_and_print_array_elements.c
 - sum_of_array_elements.c
+
+#Day 19(06-04-26)
+- average_of_array.c
+- maximum_element.c
+- minimum_element.c
