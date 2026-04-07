@@ -1,4 +1,4 @@
-
+2
 ## Day 1 (19-03-26)
 - prime_number.c
 - even_or_odd.c
@@ -86,3 +86,6 @@ ARRAYS
 - average_of_array.c
 - maximum_element.c
 - minimum_element.c
+
+#Day 20(07-04-26)
+- count_even_and_odd_numbers.c
