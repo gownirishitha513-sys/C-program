@@ -89,3 +89,4 @@ ARRAYS
 
 #Day 20(07-04-26)
 - count_even_and_odd_numbers.c
+- linear_search.c
