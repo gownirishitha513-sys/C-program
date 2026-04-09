@@ -94,3 +94,6 @@ ARRAYS
 #Day 21(08-04-26)
 - copy_one_array_to_another.c
 - reverse_of_an_array.c
+
+#Day 22(09-04-26)
+- print_array_in_reverse_order.c
