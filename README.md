@@ -97,3 +97,4 @@ ARRAYS
 
 #Day 22(09-04-26)
 - print_array_in_reverse_order.c
+- count_positive_and_negative_numbers.c
