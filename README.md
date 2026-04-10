@@ -102,3 +102,4 @@ ARRAYS
 
 #Day 23(10-04-26)
 - swap_first_and_last_elements.c
+- print_elements_at_even_positions.c
