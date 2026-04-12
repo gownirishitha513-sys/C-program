@@ -107,4 +107,4 @@ ARRAYS
 #Day 24(12-04-26)
 - sort_array_in_ascending_order.c
 - sort_array_in_descending_order.c
-_ Find_secondlargest_and_secondsmallest.c
+- Find_secondlargest_and_secondsmallest.c
