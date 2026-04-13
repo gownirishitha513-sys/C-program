@@ -108,3 +108,6 @@ ARRAYS
 - sort_array_in_ascending_order.c
 - sort_array_in_descending_order.c
 - Find_secondlargest_and_secondsmallest.c
+
+#Day 25(13-04-26)
+- remove_duplicate_elements.c
