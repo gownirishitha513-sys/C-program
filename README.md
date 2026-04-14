@@ -112,3 +112,6 @@ ARRAYS
 #Day 25(13-04-26)
 - remove_duplicate_elements.c
 - merge_of_two_arrays.c
+
+#Day 26(14-04-26)
+- insert_element_at_position.c
