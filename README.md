@@ -115,3 +115,4 @@ ARRAYS
 
 #Day 26(14-04-26)
 - insert_element_at_position.c
+- delete_element_from_array.c
