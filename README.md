@@ -116,3 +116,6 @@ ARRAYS
 #Day 26(14-04-26)
 - insert_element_at_position.c
 - delete_element_from_array.c
+
+#Day 27(15-04-26)
+- find_frequency_of_each_element.c
