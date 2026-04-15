@@ -119,3 +119,4 @@ ARRAYS
 
 #Day 27(15-04-26)
 - find_frequency_of_each_element.c
+- find_duplicate_element.c
