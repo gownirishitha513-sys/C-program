@@ -123,3 +123,4 @@ ARRAYS
 
 #Day 28(16-04-26)
 - left_rotate_array_by_1.c
+- right_rotate_array_by_1.c
