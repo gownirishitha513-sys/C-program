@@ -124,3 +124,6 @@ ARRAYS
 #Day 28(16-04-26)
 - left_rotate_array_by_1.c
 - right_rotate_array_by_1.c
+
+#Day 29(17-04-26)
+- sum_of_two_arrays.c
