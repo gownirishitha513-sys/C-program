@@ -128,5 +128,8 @@ ARRAYS
 #Day 29(17-04-26)
 - sum_of_two_arrays.c
 
-#Day 40(20-04-26)
+#Day 30(20-04-26)
 - common_elements_in_two_arrays.c
+
+#Day 31(22-04-26)
+-sit_array_into_even_and_odd_array.c
