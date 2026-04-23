@@ -132,5 +132,8 @@ ARRAYS
 - common_elements_in_two_arrays.c
 
 #Day 31(22-04-26)
-- sit_array_into_even_and_odd_array.c
+- split_array_into_even_and_odd_array.c
 - count_occurence_of_an_element_in_an_array.c
+
+#Day 31(23-04-26)
+- binary_search(sorted array).c
