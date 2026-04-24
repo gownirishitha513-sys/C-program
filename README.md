@@ -137,3 +137,6 @@ ARRAYS
 
 #Day 31(23-04-26)
 - binary_search(sorted array).c
+
+#Day 32(24-04-26)
+- missing_number_in_array.c
