@@ -140,3 +140,6 @@ ARRAYS
 
 #Day 32(24-04-26)
 - missing_number_in_array.c
+
+#Day 33(25-04-26)
+- find_pair_with_given_sum.c
