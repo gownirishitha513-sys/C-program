@@ -143,3 +143,6 @@ ARRAYS
 
 #Day 33(25-04-26)
 - find_pair_with_given_sum.c
+
+#Day 34(26-04-26)
+- moving_all_zeroes_to_end.c
