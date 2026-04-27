@@ -146,3 +146,6 @@ ARRAYS
 
 #Day 34(26-04-26)
 - moving_all_zeroes_to_end.c
+
+#Day 35(27-04-26)
+- merging_two_sorted_arrays.c
