@@ -149,3 +149,6 @@ ARRAYS
 
 #Day 35(27-04-26)
 - merging_two_sorted_arrays.c
+
+#Day 36(28-04-26)
+- Union_of_arrays.c
