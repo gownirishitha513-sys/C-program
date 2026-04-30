@@ -152,3 +152,6 @@ ARRAYS
 
 #Day 36(28-04-26)
 - Union_of_arrays.c
+
+#Day 37(30-04-26)
+- intersection_of_arrays.c
