@@ -155,3 +155,6 @@ ARRAYS
 
 #Day 37(30-04-26)
 - intersection_of_arrays.c
+
+ #Day 38(01-05-26)
+-longest_increasing_subsequence.c
