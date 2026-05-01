@@ -135,26 +135,26 @@ ARRAYS
 - split_array_into_even_and_odd_array.c
 - count_occurence_of_an_element_in_an_array.c
 
-#Day 31(23-04-26)
+#Day 32(23-04-26)
 - binary_search(sorted array).c
 
-#Day 32(24-04-26)
+#Day 33(24-04-26)
 - missing_number_in_array.c
 
-#Day 33(25-04-26)
+#Day 34(25-04-26)
 - find_pair_with_given_sum.c
 
-#Day 34(26-04-26)
+#Day 35(26-04-26)
 - moving_all_zeroes_to_end.c
 
-#Day 35(27-04-26)
+#Day 36(27-04-26)
 - merging_two_sorted_arrays.c
 
-#Day 36(28-04-26)
+#Day 37(28-04-26)
 - Union_of_arrays.c
 
-#Day 37(30-04-26)
+#Day 38(30-04-26)
 - intersection_of_arrays.c
 
- #Day 38(01-05-26)
--longest_increasing_subsequence.c
+ #Day 39(01-05-26)
+- longest_increasing_subsequence.c
