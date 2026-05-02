@@ -158,3 +158,6 @@ ARRAYS
 
  #Day 39(01-05-26)
 - longest_increasing_subsequence.c
+
+#Day 40(02-05-26)
+- Leaders_in_an_array.c
