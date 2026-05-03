@@ -161,3 +161,6 @@ ARRAYS
 
 #Day 40(02-05-26)
 - Leaders_in_an_array.c
+
+#Day 41(03-05-26)
+- product_of_array_except_self.c
