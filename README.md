@@ -164,3 +164,6 @@ ARRAYS
 
 #Day 41(03-05-26)
 - product_of_array_except_self.c
+
+#Day 42(04-05-26)
+- Find_equilibrium_index.c
