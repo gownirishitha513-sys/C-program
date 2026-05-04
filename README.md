@@ -167,3 +167,4 @@ ARRAYS
 
 #Day 42(04-05-26)
 - Find_equilibrium_index.c
+- duplicates_using_hashing_in_c
