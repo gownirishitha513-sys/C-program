@@ -171,3 +171,4 @@ ARRAYS
 
 #Day 43(05-05-26)
 - peak_element.c
+- rearrange_array_alternatively.c
