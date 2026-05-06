@@ -172,3 +172,6 @@ ARRAYS
 #Day 43(05-05-26)
 - peak_element.c
 - rearrange_array_alternatively.c
+
+#Day 44(06-05-26)
+- subarrays_with_given_sum.c
