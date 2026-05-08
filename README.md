@@ -178,3 +178,4 @@ ARRAYS
 
 #Day 45(08-05-26)
 - Read_and_print_string.c
+- length_of_string.c
