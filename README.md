@@ -175,3 +175,6 @@ ARRAYS
 
 #Day 44(06-05-26)
 - subarrays_with_given_sum.c
+
+#Day 45(08-05-26)
+- Read_and_print_string.c
