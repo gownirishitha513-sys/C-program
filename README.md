@@ -180,3 +180,6 @@ ARRAYS
 - Read_and_print_string.c
 - length_of_string.c
 - copy_string_without_strcpy.c
+
+#Day 46(11-05-26)
+- compare_two_strings.c
