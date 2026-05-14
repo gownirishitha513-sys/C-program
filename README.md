@@ -187,3 +187,6 @@ ARRAYS
 #Day 47(12-05-26)
 - concatenate_strings_without_strcat.c
 - reverse_a_string.c
+
+#DAY 48(14-05-26)
+- string_permutations.c
