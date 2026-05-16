@@ -191,3 +191,7 @@ ARRAYS
 #DAY 48(14-05-26)
 - string_permutations.c
 - string_combinations.c
+
+#Day 49(16-05-26)
+- palinrome_string.c
+- count_vowels_and_consonants.c
