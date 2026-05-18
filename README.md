@@ -195,3 +195,6 @@ ARRAYS
 #Day 49(16-05-26)
 - palinrome_string.c
 - count_vowels_and_consonants.c
+
+#Day 50(18-05-25)
+- find_occurence_of_first_character.c
