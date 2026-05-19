@@ -199,3 +199,6 @@ ARRAYS
 #Day 50(18-05-25)
 - find_occurence_of_first_character.c
 - find_last_occurence_of_character.c
+
+#Day 51(19-05-26)
+- toggle_case_of_a_string.c
