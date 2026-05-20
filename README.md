@@ -206,3 +206,4 @@ ARRAYS
 
 #Day 52(20-05-26)
 - remove_spaces_from_strings.c
+- remove_spaces_with_hyphen.c
