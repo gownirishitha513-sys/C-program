@@ -210,4 +210,5 @@ ARRAYS
 - find_frequency_of_character_in_a_string.c
 
 # Day 53(21-05-26)
+- remove_characters_from_a_string.c
 - sort_characters_in_a_string.c
