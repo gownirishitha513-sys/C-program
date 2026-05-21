@@ -208,3 +208,6 @@ ARRAYS
 - remove_spaces_from_strings.c
 - remove_spaces_with_hyphen.c
 - find_frequency_of_character_in_a_string.c
+
+# Day 53(21-05-26)
+- sort_characters_in_a_string.c
