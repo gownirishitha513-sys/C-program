@@ -181,7 +181,7 @@ ARRAYS
 - length_of_string.c
 - copy_string_without_strcpy.c
 
-#Day 46(11-05-26)
+#Day 46 (11-05-26)
 - compare_two_strings.c
 
 #Day 47(12-05-26)
