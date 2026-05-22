@@ -217,3 +217,4 @@ ARRAYS
 # Day 54(22-05-26)
 - print_ASCII_values_of_characters.c
 - reverse_each_character_case.c
+- count_lines_tabs_spaces.c
