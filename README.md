@@ -221,3 +221,5 @@ ARRAYS
 
 #Day 55(24-05-26)
 - remove_duplicate_characters.c
+- print_duplicate_characters.c
+- check_anagram_string.c
