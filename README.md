@@ -226,5 +226,5 @@ ARRAYS
 
 
 #Day 56(25-05-26)
-- high_frequency_character.c
+- highest_frequency_character.c
 - lowest_frequency_character.c
