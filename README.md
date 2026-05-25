@@ -223,3 +223,7 @@ ARRAYS
 - remove_duplicate_characters.c
 - print_duplicate_characters.c
 - check_anagram_string.c
+
+
+#Day 56(25-05-26)
+- high_frequency_character.c
