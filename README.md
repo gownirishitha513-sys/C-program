@@ -228,3 +228,4 @@ ARRAYS
 #Day 56(25-05-26)
 - highest_frequency_character.c
 - lowest_frequency_character.c
+- insert_substring_into_string.c
