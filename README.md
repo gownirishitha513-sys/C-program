@@ -232,3 +232,6 @@ ARRAYS
 
 #Day 57(26-05-26)
 - delete_substring_from_string.c
+
+#Day 58(27-05-26)
+- replace_word_in_a_string.c
