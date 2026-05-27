@@ -235,3 +235,4 @@ ARRAYS
 
 #Day 58(27-05-26)
 - replace_word_in_a_string.c
+- replace_each_word_in_sentence.c
