@@ -245,3 +245,4 @@ ARRAYS
 
 #Day 60 (31-05-26)
 - remove_vowels_from_a_string.c
+- compress_string.c
