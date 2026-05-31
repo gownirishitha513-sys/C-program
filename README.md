@@ -242,3 +242,6 @@ ARRAYS
 -count_occurence_of_substring.c
 -longest_word_in_sentence.c
 -shortest_word_in_sentence.c
+
+#Day 60 (31-05-26)
+- remove_vowels_from_a_string.c
