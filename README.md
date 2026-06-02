@@ -250,3 +250,4 @@ ARRAYS
 #Dag 61(02-06-26)
 - check_pangram.c
 - check_isomorphic_string.c
+- remove_extra_spaces.c
