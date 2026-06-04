@@ -257,7 +257,7 @@ ARRAYS
 - first_non_repeating_characters.c
 - cyclic_rotation_of_string.c
 
-# Day 63(04-06-26)
+#Day 63(04-06-26)
 - split_strings_into_words.c
 - longest_palindromic_substring.c
 - longest_common_prefix.c
