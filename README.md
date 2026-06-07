@@ -267,3 +267,6 @@ ARRAYS
 - longest_common_substring.c
 -longest_substring_without_repeating_characters.c
 
+#Day 65(07-06-26)
+- minimum_insertion_to_make_a_palindrome.c
+- minimum_deletion_to_make_a_palindrome.c
