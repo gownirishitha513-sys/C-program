@@ -270,3 +270,4 @@ ARRAYS
 #Day 65(07-06-26)
 - minimum_insertion_to_make_a_palindrome.c
 - minimum_deletion_to_make_a_palindrome.c
+- implement_atoi_function.c
