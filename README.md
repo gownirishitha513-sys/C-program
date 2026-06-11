@@ -275,3 +275,8 @@ ARRAYS
 #Day 66(08-06-26)
 - wildcard_pattern_matching.c
 - robin_karp_algorithm.c
+
+#Day 67(11-06-26)
+-Word break problem.c 
+-Palindrome partitioning.c 
+-Count distinct substrings.c
