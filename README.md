@@ -277,6 +277,9 @@ ARRAYS
 - robin_karp_algorithm.c
 
 #Day 67(11-06-26)
-- Word break problem.c 
-- Palindrome partitioning.c 
-- Count distinct substrings.c
+- Word_break_problem.c 
+- Palindrome_partitioning.c 
+- Count_distinct_substrings.c
+
+#Day 68 (12-06-26)
+- suffix_array_construction.c
