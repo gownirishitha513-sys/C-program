@@ -1,4 +1,4 @@
-
+11
 ##Day 1 (19-03-26)
 - prime_number.c
 - even_or_odd.c
@@ -282,4 +282,3 @@ ARRAYS
 - Count_distinct_substrings.c
 
 #Day 68 (12-06-26)
-- suffix_array_construction.c
