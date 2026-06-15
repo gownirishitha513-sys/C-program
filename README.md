@@ -282,3 +282,4 @@ ARRAYS
 - Count_distinct_substrings.c
 
 #Day 68 (12-06-26)
+- print_value_using_pointer.c
