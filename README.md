@@ -281,6 +281,6 @@ ARRAYS
 - Palindrome_partitioning.c 
 - Count_distinct_substrings.c
 
-#Day 68 (12-06-26)
+#Day 68 (15-06-26)
 - print_value_using_pointer.c
 - print_address_of_variable.c
