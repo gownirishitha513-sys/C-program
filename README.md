@@ -286,3 +286,6 @@ ARRAYS
 - print_value_using_pointer.c
 - print_address_of_variable.c
 - add_two_numbers_using_pointers.c
+
+#Day 69 (16-06-26)
+- swap_two_numbers_using_pointers.c
