@@ -295,3 +295,4 @@ ARRAYS
 #Day 70(17-06-26)
 - calculate_length_of_strings_using_pointers.c
 - Traverse_array_using_pointers.c
+- sum_of_array_elements_using_pointers.c
