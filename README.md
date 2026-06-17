@@ -291,3 +291,6 @@ ARRAYS
 - swap_two_numbers_using_pointers.c
 - find_maximum_of_two_numbers_using_pointers.c
 - find_minimum_of_two_numbers_using_pointers.c
+
+#Day 70(17-06-26)
+- calculate_length_of_strings_using_pointers.c
