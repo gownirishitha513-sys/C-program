@@ -299,3 +299,4 @@ ARRAYS
 
 ##Day 71(20-06-26)
 - reverse_array_using_pointers.c
+- copy_one_array_to_another_using_pointers.c
