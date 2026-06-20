@@ -1,4 +1,4 @@
-11
+
 ##Day 1 (19-03-26)
 - prime_number.c
 - even_or_odd.c
@@ -296,3 +296,6 @@ ARRAYS
 - calculate_length_of_strings_using_pointers.c
 - Traverse_array_using_pointers.c
 - sum_of_array_elements_using_pointers.c
+
+##Day 71(20-06-26)
+- reverse_array_using_pointers.c
