@@ -304,3 +304,4 @@ ARRAYS
 ##Day 72(21-06-26)
 - count_vowels_using_pointers.c
 - compare_two_strings_using_pointers.c
+- concatenate_strings_using_pointers.c
