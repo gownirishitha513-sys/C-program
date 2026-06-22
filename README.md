@@ -305,3 +305,6 @@ ARRAYS
 - count_vowels_using_pointers.c
 - compare_two_strings_using_pointers.c
 - concatenate_strings_using_pointers.c
+
+##Day 73(22-06-26)
+- copy_string_without_strcpy()_using_pointers.c
