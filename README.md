@@ -313,3 +313,4 @@ ARRAYS
 ##Day 74(23-06-26)
 - Find_smallest_element_in_an_array_using_pointers.c
 - reverse_a_string_using_pointers.c
+- pointer_arithmetic_demonstration.c
