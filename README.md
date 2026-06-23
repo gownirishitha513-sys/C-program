@@ -309,3 +309,6 @@ ARRAYS
 ##Day 73(22-06-26)
 - copy_string_without_strcpy()_using_pointers.c
 - find_largest_element_in_array_using_pointers.c
+
+##Day 74(23-06-26)
+- Find_smallest_element_in_an_array_using_pointers.c
