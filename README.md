@@ -317,3 +317,4 @@ ARRAYS
 
 ## Day 75(24-06-26)
 - sort_array_using_pointers.c
+- search_an_element_using_pointers.c
