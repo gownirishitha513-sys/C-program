@@ -315,6 +315,9 @@ ARRAYS
 - reverse_a_string_using_pointers.c
 - pointer_arithmetic_demonstration.c
 
-## Day 75(24-06-26)
+##Day 75(24-06-26)
 - sort_array_using_pointers.c
 - search_an_element_using_pointers.c
+
+##Day 76(27-06-26)
+- matrix_traversal_using_pointers.c
