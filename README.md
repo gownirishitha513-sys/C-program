@@ -321,3 +321,6 @@ ARRAYS
 
 ##Day 76(27-06-26)
 - matrix_traversal_using_pointers.c
+
+##Day 77(28-06-26)
+- sum_of_matrix_elements_using_pointers.c
