@@ -329,3 +329,4 @@ ARRAYS
 
 ##Day 78(01-07-26)
 - array_of_pointers.c
+- pointer_to_structure.c
