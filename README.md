@@ -326,3 +326,6 @@ ARRAYS
 - sum_of_matrix_elements_using_pointers.c
 - transpose_of_matrix_using_pointers.c
 - double_pointer.c
+
+##Day 78(01-07-26)
+- array_of_pointers.c
