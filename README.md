@@ -334,3 +334,4 @@ ARRAYS
 
 ## Day 79(02-07-26)
 - dynamic_array_using_calloc().c
+- resize_array_using_realloc().c
