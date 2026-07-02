@@ -331,3 +331,6 @@ ARRAYS
 - array_of_pointers.c
 - pointer_to_structure.c
 - dynamic_memory_allocation_using_malloc().c
+
+## Day 79(02-07-26)
+- dynamic_array_using_calloc().c
