@@ -338,3 +338,4 @@ ARRAYS
 
 ## Day 80(04-07-26)
 - implement_strcpy()_using_pointers.c
+- implement_strcmp()_using_pointers.c
