@@ -336,7 +336,9 @@ ARRAYS
 - dynamic_array_using_calloc().c
 - resize_array_using_realloc().c
 
-## Day 80(04-07-26)
+## Day 80(03-07-26)
 - implement_strcpy()_using_pointers.c
 - implement_strcmp()_using_pointers.c
 - implement_strcat()_using_pointers.c
+##Day 81(04-07-26)
+- function_returning_a_pointer.c
