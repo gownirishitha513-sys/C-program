@@ -343,3 +343,4 @@ ARRAYS
 ##Day 81(04-07-26)
 - function_returning_a_pointer.c
 - array_of_function_pointer.c
+- function_pointer_as_an_argument.c
