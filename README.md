@@ -332,11 +332,11 @@ ARRAYS
 - pointer_to_structure.c
 - dynamic_memory_allocation_using_malloc().c
 
-## Day 79(02-07-26)
+##Day 79(02-07-26)
 - dynamic_array_using_calloc().c
 - resize_array_using_realloc().c
 
-## Day 80(03-07-26)
+##Day 80(03-07-26)
 - implement_strcpy()_using_pointers.c
 - implement_strcmp()_using_pointers.c
 - implement_strcat()_using_pointers.c
