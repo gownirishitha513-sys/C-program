@@ -342,3 +342,4 @@ ARRAYS
 - implement_strcat()_using_pointers.c
 ##Day 81(04-07-26)
 - function_returning_a_pointer.c
+- array_of_function_pointer.c
