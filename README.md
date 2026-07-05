@@ -344,3 +344,6 @@ ARRAYS
 - function_returning_a_pointer.c
 - array_of_function_pointer.c
 - function_pointer_as_an_argument.c
+
+##Day 82(05-07-26)
+- Dynamic_2D_array_using_pointers.c
