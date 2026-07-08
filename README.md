@@ -347,3 +347,6 @@ ARRAYS
 
 ##Day 82(05-07-26)
 - Dynamic_2D_array_using_pointers.c
+
+##Day 83(08-07-26)
+- Jagged_array_using_pointers.c
