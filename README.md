@@ -353,3 +353,4 @@ ARRAYS
 
 ##Day 84(10-07-26)
 -add_of_two_numbers_using_functions.c
+- check_whether_number_is_a_prime_using_functions.c
