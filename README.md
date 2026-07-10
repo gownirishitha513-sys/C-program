@@ -350,3 +350,6 @@ ARRAYS
 
 ##Day 83(08-07-26)
 - Jagged_array_using_pointers.c
+
+##Day 84(10-07-26)
+-add_of_two_numbers_using_functions.c
