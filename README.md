@@ -357,3 +357,4 @@ ARRAYS
 
 ##Day 85(11-06-26)
 - find_factorial_of_a_number_using_functions.c
+- check_whether_number_is_even_or_odd_using_functions.c
