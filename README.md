@@ -362,3 +362,6 @@ ARRAYS
 ##Day 86(12-07-26)
 - Functions_without_arguments_and_return_values.c
 - Functions _with_arguments_and_without_return_values.c
+
+##Day 87(13-07-26)
+- Functions_with_arguments_with_return_values.c
