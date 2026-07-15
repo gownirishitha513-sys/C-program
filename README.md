@@ -366,3 +366,6 @@ ARRAYS
 ##Day 87(13-07-26)
 - Functions_with_arguments_with_return_values.c
 - funtions_without_arguments_and_without_return_values.c
+
+##Day 88(15-07-26)
+- Function_to_check_whether_number_is_prime.c
