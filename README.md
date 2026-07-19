@@ -381,3 +381,6 @@ ARRAYS
 
 ##Day 91(18-07-26)
 - print_fibonacci_series_using_functions.c
+
+##Day 92(19-07-26)
+- print_all_prime_numbers_in_a_range_using_functions.c
