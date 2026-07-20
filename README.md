@@ -384,3 +384,6 @@ ARRAYS
 
 ##Day 92(19-07-26)
 - print_all_prime_numbers_in_a_range_using_functions.c
+
+##Day 93(20-07-26)
+-reverse_a_number_using_functions.c
