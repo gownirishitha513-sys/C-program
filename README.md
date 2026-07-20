@@ -387,3 +387,4 @@ ARRAYS
 
 ##Day 93(20-07-26)
 -reverse_a_number_using_functions.c
+- check_whether_number_is_positive,negative_or_zero_using_functions.c
