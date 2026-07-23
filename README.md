@@ -392,3 +392,6 @@ ARRAYS
 ## Day 94(21-07-26)
 -find_sum_of_even_numbers_upto_n_using_functions.c
 -find_sum_of_odd_numbers_upto_n_using_functions.c 
+
+##Day 95(23-07-26)
+-check_whether_a_number_is_armstring_number_using_functions.c
