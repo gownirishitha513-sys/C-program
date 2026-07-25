@@ -399,3 +399,4 @@ ARRAYS
 
 ##Day 96(25-07-26)
 - check_whether_a_number_is_prime_using_functions.c
+-function_to_find_gcd_of_two_numbers.c
