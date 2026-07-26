@@ -400,3 +400,7 @@ ARRAYS
 ##Day 96(25-07-26)
 - check_whether_a_number_is_prime_using_functions.c
 -function_to_find_gcd_of_two_numbers.c
+
+##Day 97(26-07-26)
+-find_largest_element_in_an_array_using_functions.c
+-find_smallest_element_in_an_array_using_functions.c
