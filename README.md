@@ -407,3 +407,4 @@ ARRAYS
 
 ##Day 98(27-07-26)
 -find_area_of_circle_using_functions.c
+-find_area_of_rectangle_using_functions.c 
