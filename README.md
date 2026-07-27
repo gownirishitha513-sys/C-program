@@ -404,3 +404,6 @@ ARRAYS
 ##Day 97(26-07-26)
 -find_largest_element_in_an_array_using_functions.c
 -find_smallest_element_in_an_array_using_functions.c
+
+##Day 98(27-07-26)
+-find_area_of_circle_using_functions.c
