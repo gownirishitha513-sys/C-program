@@ -408,3 +408,6 @@ ARRAYS
 ##Day 98(27-07-26)
 -find_area_of_circle_using_functions.c
 -find_area_of_rectangle_using_functions.c 
+
+##Day 99(29-07-26)
+-count_digits_in_a_number_using_functions.c
