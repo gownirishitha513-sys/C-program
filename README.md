@@ -411,3 +411,4 @@ ARRAYS
 
 ##Day 99(29-07-26)
 -count_digits_in_a_number_using_functions.c
+-sum_of_digits_of_a_number_using_functions.c
