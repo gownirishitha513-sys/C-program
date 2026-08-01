@@ -416,3 +416,6 @@ ARRAYS
 ##Day 100(30-07-26)
 -convert_celsius_to_fahrenheit_using_functions.c
 -convert_fahrenheit_to_celsius_using_functions.c
+
+##Day 101(01-08-26)
+-print_fibonacci_series_upto_n_terms_using_functions.c
