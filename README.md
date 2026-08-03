@@ -420,3 +420,6 @@ ARRAYS
 ##Day 101(01-08-26)
 -print_fibonacci_series_upto_n_terms_using_functions.c
 -print_nth_fibonacci_number_using_functions.c
+
+##Day 102(03-08-26)
+-check_a_perfect_number_using_functions.c
