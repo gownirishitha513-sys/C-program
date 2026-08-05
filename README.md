@@ -424,3 +424,6 @@ ARRAYS
 ##Day 102(03-08-26)
 -check_a_perfect_number_using_functions.c
 -check_a_strong_number_using_functions.c
+
+##Day 103(05-08-26)
+-store_and_display_student_details_using_structures.c
