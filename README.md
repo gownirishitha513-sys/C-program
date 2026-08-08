@@ -429,5 +429,9 @@ ARRAYS
 -store_and_display_student_details_using_structures.c
 -find_the_employee_with_highest_salary_using_structures.c
 
-##Dah 104(07-08-26)
+##Day 104(07-08-26)
 -sort_students_by_marks.c
+
+##Day 105(08-08-26)
+- calculate_total_and_average_marks_using_structures.c
+
