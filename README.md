@@ -438,3 +438,6 @@ ARRAYS
 
 ##Day 106(09-08-26)
 - nested_structures_students+address.c
+
+##Day 107(10-08-26)
+- array_of_structures.c
