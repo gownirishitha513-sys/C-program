@@ -447,3 +447,6 @@ ARRAYS
 
 ##Day 109(16-08-26)
 -stone_game_IX.c
+
+#Day  110(19-08-26)
+-remove_element.c
