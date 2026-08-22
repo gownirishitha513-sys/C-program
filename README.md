@@ -453,3 +453,6 @@ ARRAYS
 
 ##Day 111(21-08-26)
 -conversion_of_roman_numbers_to_integers.c
+
+##Day 112(22-08-26)
+-conversion_of_binary_to_decimal_numbers.c
