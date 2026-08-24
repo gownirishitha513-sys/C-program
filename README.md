@@ -456,3 +456,6 @@ ARRAYS
 
 ##Day 112(22-08-26)
 -conversion_of_binary_to_decimal_numbers.c
+
+##Day 113(24-08-26)
+- convert_hexadecimal_to_decimal.c
