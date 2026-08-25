@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+int main()
+{
+    int octal, decimal = 0, hex = 0, place = 1, remainder;
+
+    printf("Enter an octal number: ");
+    scanf("%o", &octal);
+
+    // Octal to decimal
+    while (octal != 0)
+    {
+        remainder = octal % 10;
+        decimal = decimal + remainder * place;
+        place = place * 8;
+        octal = octal / 10;
+    }
+
+    // Decimal to hexadecimal
+    printf("Hexadecimal = %X\n", decimal);
+
+    return 0;
+}
