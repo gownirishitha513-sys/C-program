@@ -459,3 +459,6 @@ ARRAYS
 
 ##Day 113(24-08-26)
 - convert_hexadecimal_to_decimal.c
+
+##Dag 114(25-07-26)
+-conversion_of_octal_to_hexadecimal.c
