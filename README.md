@@ -460,5 +460,9 @@ ARRAYS
 ##Day 113(24-08-26)
 - convert_hexadecimal_to_decimal.c
 
-##Dag 114(25-07-26)
+##Day 114(25-07-26)
 -conversion_of_octal_to_hexadecimal.c
+
+##Dah 115(27-08-26)
+-find_first_non_repeating_character.c
+
