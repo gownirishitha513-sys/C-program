@@ -463,6 +463,11 @@ ARRAYS
 ##Day 114(25-07-26)
 -conversion_of_octal_to_hexadecimal.c
 
-##Dah 115(27-08-26)
+##Day 115(27-08-26)
 -find_first_non_repeating_character.c
+
+##Day 116(29-08-26)
+- finding_a_book_in_a_rack.c
+
+
 
