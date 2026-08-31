@@ -472,3 +472,6 @@ ARRAYS
 ##Day 117(30-08-26)
 - conversion_of_hexadecimal_to_octal.c
 
+##Day 118(31-8-26)
+-number_of_houses_in_a_city.c
+
