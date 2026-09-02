@@ -475,3 +475,6 @@ ARRAYS
 ##Day 118(31-8-26)
 -number_of_houses_in_a_city.c
 
+##Day 119(02-09-26)
+-To_find_odd_one_out_from_4_options.c
+
