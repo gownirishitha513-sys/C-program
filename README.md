@@ -478,3 +478,5 @@ ARRAYS
 ##Day 119(02-09-26)
 -To_find_odd_one_out_from_4_options.c
 
+##Day 120(05-09-26)
+-remove_minimum_and_maximum_from_array.c
