@@ -480,3 +480,6 @@ ARRAYS
 
 ##Day 120(05-09-26)
 -remove_minimum_and_maximum_from_array.c
+
+##Day 121(06-09-26)
+-getting_first_rank_in_a_class.c
